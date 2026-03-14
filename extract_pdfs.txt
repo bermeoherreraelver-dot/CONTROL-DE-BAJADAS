@@ -1,0 +1,1261 @@
+
+--- EETT DE CCVT.pdf - Page 1 ---
+ 
+ELABORACIÓN DEL ESTUDIO DEFINITIVO DEL PROYECTO “CREACIÓN DE 
+LOS SERVICIOS DEL HOSPITAL ESPECIALIZADO EN LA RED ASISTENCIAL 
+CAJAMARCA- ESSALUD, DISTRITO DE CAJAMARCA, PROVINCIA DE 
+CAJAMARCA Y DEPARTAMENTO DE CAJAMARCA” 
+ 
+CSL-185000-TIC-ETG-SGC-01  CESEL Ingenieros 
+TECNOLOGÍAS DE LA INFORMACIÓN Y COMUNICACIONE                                                                                                         MARZO 2020 
+108 de 156 
+o Compatibilidad: Certificado del fabricante que garantice la compatibilidad del 
+equipo completo con el Sistema Operativo solicitado. 
+ 
+Nota: El equipo Televisor de 42” o superior está considerado en el Sistema de 
+Televisión (CATV) en caso contrario se tiene que suministrar e instalar para 
+el módulo de atención al asegurado. 
+ 
+13.3. TELÉFONO IP. 
+o El módulo de atención al asegurado contara con un equipo s teléfonos IP del tipo 
+estándar que está especificado  y considerado en la solución SISTEMA DE 
+TELEFONÍA IP a impleme ntarse en el centro asistencial, en caso contrario se 
+tiene que suministrar e instalar considerando las especificaciones técnicas de un 
+teléfono IP estándar  descrito en el Sistema de Telefonía IP. 
+ 
+13.4. IMPRESORA TICKETERA DE PIE 
+ 
+o Pantalla LCD táctil a color de alta calidad, 15”, ángulo de visión de pantalla 400 
+nits. 
+o Resolución XGA (1024x 7689 PIXELES). 
+o Superficie de vidrio y resistencia a rayones. 
+o Activación al contacto del dedo, mano enguantada y puntero. 
+o Diseño en coordinación con el cliente. 
+o Procesador Ci5 en adelante. 
+o Memoria mínima de 8GB DDR4. 
+o Disco duro Sata de 1 Tb. 
+o Comunicación: Ethernet 10/100/1000, wifi. 
+o Puertos: 4 USB, 1 RS 232,1 RJ45. 
+o Alimentación 220VAC. 
+o Impresora térmica incorporada. 
+ 
+14. SISTEMA DE VIDEO VIGILANCIA Y SEGURIDAD 
+ 
+14.1. CÁMARA MINI DOMO INTERIOR  
+Estas cámaras deben cumplir con los siguientes requerimientos técnicos mínimos: 
+o Sensor de Imagen: 1/2" ó superior. 
+o Escaneo de imagen: Progresivo. 
+o Resolución: 2592 x 1944 pixeles @ 30 fps. 
+o Lente: Varifocal 4.5-8 mm, autoiris tipo P. 
+o Dynamic Range y/o WDR 65 dB. 
+--- EETT DE CCVT.pdf - Page 2 ---
+ 
+ELABORACIÓN DEL ESTUDIO DEFINITIVO DEL PROYECTO “CREACIÓN DE 
+LOS SERVICIOS DEL HOSPITAL ESPECIALIZADO EN LA RED ASISTENCIAL 
+CAJAMARCA- ESSALUD, DISTRITO DE CAJAMARCA, PROVINCIA DE 
+CAJAMARCA Y DEPARTAMENTO DE CAJAMARCA” 
+ 
+CSL-185000-TIC-ETG-SGC-01  CESEL Ingenieros 
+TECNOLOGÍAS DE LA INFORMACIÓN Y COMUNICACIONE                                                                                                         MARZO 2020 
+109 de 156 
+o Balance de Blancos: Si. 
+o IR con tecnología adaptativa y alcance 30 metros. 
+o Sensibilidad: 
+ Color 0.04 lux F1.8. 
+ Mono 0.007 lux F1.8. 
+ La cámara debe remover el filtro IR cuando conmuta a blanco y negro. 
+o Codificación: H.264 y codificación inteligente. 
+o Protocolos: TCP/IP, UDP/IP, Unicast, Multicast IGMP, DNS, DHCP, RTP, RTSP, 
+NTP, HTTP, HTTPS, SNMP v3 y 802.1x. 
+o Interface: RJ-45 para 100Base-TX. 
+o Alimentación PoE. 
+o Temperatura de operación: 0-50°C. 
+o ONVIF Compliance perfil S. 
+o Detección de movimiento: Por detección de personas y/o vehículos únicamente. 
+o Zonas de privacidad: Mínimo 20. 
+o Almacenamiento local vía memoria SD. 
+o Audio: Entrada / Salida con compresi6n G.711 PCM 8 kHz. 
+o Alarmas: Entrada / Salida. 
+o Analítica embebida en cámara: 
+ Debe identificar personas y vehículos y clasificarlos con un color distinto a 
+cada uno. 
+ Debe permitir retroalimentación a la cámara cuando comete errores en la 
+generación de una alarma por analíticos. 
+ Debe permitir configurar hasta 5 reglas basados en detección de personas 
+y/o vehículos. 
+ Debe entregar metadata para realizar búsquedas de forma rápida y simple. 
+o Interface USB para configuración. 
+o Modo de escena inactiva que reduce los FPS cuando no hay movimiento. 
+o Debe tener codificación inteligente para  la reducción de ancho de banda y 
+almacenamiento. 
+o Certificación: UL, EN y FCC. 
+o Debe incluir accesorios de montaje de fábrica adecuados para cada ambiente. 
+ 
+14.2. CÁMARA FIJA PARA EXTERIORES BULLET (BALA). 
+Estas cámaras deben cumplir con los siguientes requerimientos técnicos mínimos: 
+o Tipo Día /Noche con IR adaptativo incorporado. 
+o Sensor de Imagen: 1/3" CMOS o superior. 
+o Escaneo de imagen: Progresivo. 
+o Resolución: 2048x1536 pixeles a 30 fps. 
+--- EETT DE CCVT.pdf - Page 3 ---
+ 
+ELABORACIÓN DEL ESTUDIO DEFINITIVO DEL PROYECTO “CREACIÓN DE 
+LOS SERVICIOS DEL HOSPITAL ESPECIALIZADO EN LA RED ASISTENCIAL 
+CAJAMARCA- ESSALUD, DISTRITO DE CAJAMARCA, PROVINCIA DE 
+CAJAMARCA Y DEPARTAMENTO DE CAJAMARCA” 
+ 
+CSL-185000-TIC-ETG-SGC-01  CESEL Ingenieros 
+TECNOLOGÍAS DE LA INFORMACIÓN Y COMUNICACIONE                                                                                                         MARZO 2020 
+110 de 156 
+o Lente: Varifocal 3 -9 mm, autoiris tipo P. Enfoque y zoom remoto desde el 
+software de gestión. 
+o Wide Dynamic Range: 120 dB 
+o Balance de Blancos: Si. 
+o IR con tecnología adaptativa y alcance 30 metros. 
+o Sensibilidad: 
+ Color: 0.05 lux F1.3. 
+ Mono: 0 lux con IR encendido. 
+ La cámara debe remover el filtro IR cuando conmuta a blanco y negro. 
+o Codificación: H.264 y MJPEG. 
+o Protocolos: TCP/IP, UDP/IP, Unicast, Multicast IGMP, DNS, DHCP, RTP, RTSP, 
+NTP, HTTP, HTTPS, SNMP v3 y 802.1x. 
+o Interface: RJ-45 para 100Base-TX. 
+o Alimentación: PoE. 
+o Detección de movimiento: Por detección de personas y/o vehículos únicamente. 
+o Zonas de privacidad: Mínimo 20. 
+o Audio: Entrada / Salida con compresión G.711 PCM 8 kHz. 
+o Alarmas: Entrada / Salida. 
+o Almacenamiento local Ranura SD. 
+o ONVIF Compliance perfil S. 
+o Analítica embebida en cámara: 
+ Debe identificar personas y vehículos y  clasificarlos con un color distinto a 
+cada uno. 
+ Debe permitir retroalimentación a la cámara cuando comete errores en la 
+generación de una alarma por analíticos. 
+ Debe permitir configurar hasta 5 reglas basados en detección de personas 
+y/o vehículos. 
+ Debe entregar metadata para realizar búsquedas de forma rápida y simple 
+o Interface USB para configuración. 
+o Modo de escena inactiva que reduce los FPS cuando no hay movimiento. 
+o Debe tener codificación inteligente para la reducción de ancho de banda y 
+almacenamiento. 
+o Certificación: UL, EN y FCC. 
+o Incluye cobertor para exteriores con grado de protección IP66 del mismo 
+fabricante de la cámara. 
+ 
+14.3. CÁMARA PTZ PARA EXTERIOR 
+Estas cámaras deben cumplir con los siguientes requerimientos técnicos mínimos: 
+o Tipo de Cámara Domo IP PTZ. 
+--- EETT DE CCVT.pdf - Page 4 ---
+ 
+ELABORACIÓN DEL ESTUDIO DEFINITIVO DEL PROYECTO “CREACIÓN DE 
+LOS SERVICIOS DEL HOSPITAL ESPECIALIZADO EN LA RED ASISTENCIAL 
+CAJAMARCA- ESSALUD, DISTRITO DE CAJAMARCA, PROVINCIA DE 
+CAJAMARCA Y DEPARTAMENTO DE CAJAMARCA” 
+ 
+CSL-185000-TIC-ETG-SGC-01  CESEL Ingenieros 
+TECNOLOGÍAS DE LA INFORMACIÓN Y COMUNICACIONE                                                                                                         MARZO 2020 
+111 de 156 
+o Sensor de Captación de Imagen CMOS de 1/3". 
+o WDR de 120dB. 
+o Video a Color HDTV, función de Día/Noche Automático. 
+o Compresión de Video Digital H264 y M-JPEG. 
+o Frecuencia de imágenes: Más de 30 fps. 
+o Resolución HDTV de mínimo 1920x1080p con alta calidad de  imagen para el 
+flujo de video H264. 
+o Resolución de Video 2 MP a diferentes fps. 
+o Angulo de Movimiento Horizontal (PAN) 360°. 
+o Angulo de Movimiento Vertical (TILT) 180°. 
+o Velocidad de movimiento: 400°/sg. 
+o Objetivos y lentes: Zoom óptico de mínimo 30x (4.3 —129 mm). 
+o Iluminación Min: Modo color 0.4 lux, modo blanco y negro 0.04 lux a F1.6. 
+o Protocolos de Comunicación: TCP/IP, UDP/IP, Unicast, Multicast IGMP, DNS, 
+DHCP, RTP, RTSP, NTP, HTTP, HTTPS, SNMP v3 y 802.1x. 
+o Sistema antiniebla y desempañador. 
+o Terminales de E/S externos: 01 entradas y 01 salidas de alarma. 
+o Entrada y salida de audio: Si. 
+o Se debe incluir los accesorios de montaje necesarios para su correcta 
+instalación incluyendo montaje en pared y/o techo. 
+o Mascara de Privacidad, 100 presets y 10 tour de guardia. 
+o Modo de escena inactiva, que reduce los fps cuando no existe movimiento en la 
+cámara y permite reducir el consumo de ancho de banda y almacenamiento. 
+o Debe tener codificación inteligente para la reducción de ancho de banda y 
+almacenamiento. 
+o Analítica embebida en cámara con tecnología de autoaprendizaje en su position 
+de origen: 
+ No debe requerir complejos procesos de calibración. El operador debe poder 
+crear sus propias reglas de analítica. 
+ Debe identificar personas y vehículos y clasificarlos con un color  distinto a 
+cada uno. 
+ Debe permitir retroalimentación a la cámara cuando comete errores en la 
+generación de una alarma por analíticos. 
+ Debe permitir configurar hasta 5 reglas basados en detección de personas 
+y/o vehículos. 
+ No debe generar alarmas cuando ci rculen animales dentro de la zona de 
+cobertura de las cámaras. 
+ Debe entregar metadata para realizar búsquedas de forma rápida y simple. 
+o Montaje Pared o Mástil para exterior. 
+--- EETT DE CCVT.pdf - Page 5 ---
+ 
+ELABORACIÓN DEL ESTUDIO DEFINITIVO DEL PROYECTO “CREACIÓN DE 
+LOS SERVICIOS DEL HOSPITAL ESPECIALIZADO EN LA RED ASISTENCIAL 
+CAJAMARCA- ESSALUD, DISTRITO DE CAJAMARCA, PROVINCIA DE 
+CAJAMARCA Y DEPARTAMENTO DE CAJAMARCA” 
+ 
+CSL-185000-TIC-ETG-SGC-01  CESEL Ingenieros 
+TECNOLOGÍAS DE LA INFORMACIÓN Y COMUNICACIONE                                                                                                         MARZO 2020 
+112 de 156 
+o Carcasa de Protección Ambiental IP66 en impactos IK10. 
+o ONVIF compliance perfil S. 
+o Alimentación: PoE compatible con IEEE 802.3at Clase 4 PoE Plus. 
+o Certificaciones: UL, EN y FCC. 
+ 
+14.4. SISTEMA DE GESTIÓN DE VIDEO VIGILANCIA 
+El sistema de gestión de video vigilancia contara con un conjunto de equipos tanto 
+en hardware como software, que permiti rá a los usuarios operadores de video, 
+supervisar las cámaras de video vigilancia que se les haya asignado desde su 
+estaci6n de trabajo. El sistema deberá estar homologado, testeado y/o suministrado 
+por único fabricante para garantizar la homogeneidad y co mpatibilidad de la 
+solución completa. Todos los componentes de hardware (cámaras, NVR, 
+estaciones de trabajo y teclado) y software deben haber sido diseñados y 
+fabricados para operar en sistemas de video vigilancia IP. 
+Se debe incluir el servidor que admin istra y gestiona los derechos y privilegios de 
+todo el sistema con las siguientes características mínimas: 
+o Servidor rackeable 1 RU. 
+o Arquitectura: Arquitectura x86. 
+o Procesador: 
+ Cantidad de núcleos 8. 
+ Cantidad de subprocesos 16. 
+ Frecuencia básica del procesador 2,10 GHz. 
+ Cache 20 MB. 
+o Velocidad de Enlace QPI. 
+o Memoria RAM: 64GB. 
+o Almacenamiento: 04 discos internos de 1.8 TB SAS 15k HotSwap, (2.5") 
+o Controlador RAID Internet que soporte RAID 0, 1 y 5. 
+o Interfaces de Red: Las tarjetas de red deben tener la capacidad  de virtualizar 
+cada interface física en por lo menos 4 interfaces virtuales (vNIC/vHBA). 
+o 02 fuentes de poder redundantes HotSwap. 
+o Sistemas Operativos Soportados: 
+ Microsoft Windows Server. 
+ Red Hat Enterprise Linux (RHEL). 
+ SUSE Linux Enterprise Server (SLES). 
+ VMware. 
+ Citrix XenServer 
+ Administración. 
+ KVM virtual. 
+--- EETT DE CCVT.pdf - Page 6 ---
+ 
+ELABORACIÓN DEL ESTUDIO DEFINITIVO DEL PROYECTO “CREACIÓN DE 
+LOS SERVICIOS DEL HOSPITAL ESPECIALIZADO EN LA RED ASISTENCIAL 
+CAJAMARCA- ESSALUD, DISTRITO DE CAJAMARCA, PROVINCIA DE 
+CAJAMARCA Y DEPARTAMENTO DE CAJAMARCA” 
+ 
+CSL-185000-TIC-ETG-SGC-01  CESEL Ingenieros 
+TECNOLOGÍAS DE LA INFORMACIÓN Y COMUNICACIONE                                                                                                         MARZO 2020 
+113 de 156 
+o El proveedor asumirá la licencia del Sistema Operativo. 
+ 
+SOFTWARE DE GESTIÓN DE VIDEO VIGILANCIA 
+El software de video vigilancia a implementar debera permitir monitorear en vivo, grabar 
+todos los eventos y activar las alarmas ante situaciones de inseguridad con reglas de 
+analitica de video. Debera contar con un software principal que administre, grabe y 
+monitoree as camaras del hospital controlando muy bien el ancho de banda de conexion y 
+permitiendo ademas visualizar imagenes en HD sin perdida de resolución. 
+El sistema principal de monitoreo centralizado debe contar con: 
+o Una matriz virtual de video en vivo y gesti6n de mapas. 
+o Capacidad para permitir el monitoreo a trues de dispositivos móviles tipo Ta blet 
+y Smartphone. 
+o Una administración avanzada de políticas, supervisión del correcto 
+funcionamiento, reproducción instantánea de búsquedas inteligentes por cambio 
+de pixeles, eventos de analítica y miniaturas. Se debe poder además realizar 
+búsqueda por ev entos de analítica, aun cuando estas no hayan sido activadas 
+para monitoreo en tiempo real. 
+o Un registro de lo que ha ocurrido en todos los equipos de video: las actividades 
+del operador, las búsquedas y el historial de exportación. 
+o El Sistema de VMS deberá  entregarse en una versión de software que incluya 
+las funcionalidades de administración y configuración de analítica proveniente 
+de las cámaras, así como la administración de alarmas de forma nativa para 
+dicha versión y estas funcionalidades deberán prove erse sin ningún tipo de 
+cargo adicional. 
+o Las analíticas embebidas en las cámaras deben ser gestionadas desde la 
+estación cliente o VMS. 
+o Total compatibilidad con las analíticas provenientes de las cámaras. 
+o El sistema debe permitirle al operador enviar retro alimentación a la cámara 
+cuando esta ha cometido un error en la generación de una alarma de analítica. 
+o El VMS no deberá manejar la figura de licenciamiento por usuario o estación de 
+trabajo, dándole a EsSalud tener en el Sistema tantos usuarios como estaci ones 
+de trabajo Llegue a requerir sin tener que asumir costos adicionales de 
+licenciamiento. 
+o El VMS deberá de forma nativa soportar tecnologías que permitan la 
+administración de la información de video, tanto en vivo como grabado, con el fin 
+de optimizar a l máximo el use ancho de banda, espacio de almacenamiento y 
+recursos de hardware para visualización de la estación cliente. 
+--- EETT DE CCVT.pdf - Page 7 ---
+ 
+ELABORACIÓN DEL ESTUDIO DEFINITIVO DEL PROYECTO “CREACIÓN DE 
+LOS SERVICIOS DEL HOSPITAL ESPECIALIZADO EN LA RED ASISTENCIAL 
+CAJAMARCA- ESSALUD, DISTRITO DE CAJAMARCA, PROVINCIA DE 
+CAJAMARCA Y DEPARTAMENTO DE CAJAMARCA” 
+ 
+CSL-185000-TIC-ETG-SGC-01  CESEL Ingenieros 
+TECNOLOGÍAS DE LA INFORMACIÓN Y COMUNICACIONE                                                                                                         MARZO 2020 
+114 de 156 
+o  El postor deberá incluir los cálculos de almacenamiento, los cuales deberán 
+garantizar como mínima, que, a nivel de resolución e im ágenes por segundo del 
+informe de video grabada, sean iguales a los que se visualizan en el video en 
+vivo (máxima resolución soportada por la camera y numero de IPS acorde al 
+riesgo a cubrir). Es decir, que no se admitirán grabaciones de video que está a 
+una menor resolución o menor número de imágenes por segundo que el video 
+en vivo desplegado por la cámara durante su operación normal, durante los 30 
+primeros días de video. 
+o El VMS deberá permitir la funcionalidad de archivar el video grabado de forma 
+autor natica mediante la programaci6n de una agenda previamente configurada 
+y estableciendo un periodo de tiempo específico, así como la opción de 
+determinar, si el archivado de video se realizara para la totalidad de cameras o 
+para algunas en específico. El vi deo a archivar se podrá guardar en diferentes 
+medios de almacenamiento como unidades locales de disco, en una unidad de 
+almacenamiento mapeada en la red, en almacenamiento directamente 
+conectado, redes locales de almacenamiento especializadas y en discos USB. 
+o El VMS deberá realizar la descompresi6n de video H.264 usando los recursos 
+de hardware de la tarjeta gráfica de video, para así optimizar la capacidad total 
+de procesamiento de la estación cliente. 
+o Escalamiento de Alarmas debe ser una funcionalidad int egrada al sistema VMS 
+(sin costos adicionales de licenciamiento) que permita la configuraci6n de 
+múltiples usuarios y/o grupos de usuarios con tiempos configurables de 
+respuesta por cada uno frente al no reconocimiento de un evento de alarma 
+previamente configurado y reportado por el Sistema. 
+ 
+Adicionalmente el software debe tener las siguientes especificaciones técnicas 
+mínimas: 
+o El software de gestión de video (VMS) debe ser de arquitectura abierta, 
+compatible con múltiples fabricantes de cameras. Además, debe ser ONVIF y 
+poder integrarse con aplicaciones de terceros. 
+o Debe poder desarrollarse aplicaciones específicas a través de API o SDK. 
+o Debe poder manejar cameras de diferentes resoluciones, desde VGA, 
+Megapíxel, 4K y hasta 5K inclusive sin limitaciones e n la cantidad de cameras 
+de alta definición. 
+o Debe permitir mostrar 16 cameras de 5MP en una misma estación de trabajo de 
+manera simultánea, sin ninguna degradación de la imagen ni performance de la 
+estación de trabajo. 
+o Soporte de hasta 200 cámaras por NVR. 
+--- EETT DE CCVT.pdf - Page 8 ---
+ 
+ELABORACIÓN DEL ESTUDIO DEFINITIVO DEL PROYECTO “CREACIÓN DE 
+LOS SERVICIOS DEL HOSPITAL ESPECIALIZADO EN LA RED ASISTENCIAL 
+CAJAMARCA- ESSALUD, DISTRITO DE CAJAMARCA, PROVINCIA DE 
+CAJAMARCA Y DEPARTAMENTO DE CAJAMARCA” 
+ 
+CSL-185000-TIC-ETG-SGC-01  CESEL Ingenieros 
+TECNOLOGÍAS DE LA INFORMACIÓN Y COMUNICACIONE                                                                                                         MARZO 2020 
+115 de 156 
+o El VMS debe soportar video inteligente y debe ser configurado y administrado 
+desde la misma interfaz cliente. Así mismo, las alarmas que estas generen 
+deben ser visualizadas en la misma interfaz sin costo adicional. 
+o El VMS debe incluir edemas un cliente w eb y cliente para smartphones, sin 
+licenciamiento adicional. 
+o Las estaciones de trabajo no deben requerir licenciamiento y deben ser 
+ilimitadas. 
+o El VMS no debe requerir contratos de mantenimiento anual por soporte y 
+actualizaciones de software. El licenciamiento debe ser perpetuo. 
+o El sistema VMS permitirá el almacenamiento y el procesado de video y audio, 
+deben edemas estar sincronizados independientemente de la resolución, tasa 
+de bits y frames por segundo. 
+o Debe soportar diferentes formatos de compresión tales como: 
+ JPEG2000. 
+ MJPEG. 
+ MPEG-4. 
+ H.264. 
+o El servidor y el cliente se comunicarán entre sí de manera tal que el dispositivo 
+del servidor actúe como un proxy de video y sabrá la resolución máxima del 
+monitor compatible con el dispositivo del cliente. 
+o La tra nsmisi6n de video debe ser la siguiente: La cámara envía un stream de 
+baja resolución y un stream de alta definición al servidor. El servidor almacenara 
+ambos streams y dependiendo de lo que el cliente desee visualizar, el servidor 
+enviara el stream pequeñ o si está mostrando video en modo panorámico 
+(imagen completa) o el stream de alta definición si se realiza zoom digital sobre 
+la imagen. En el caso de las cámaras superiores a 5MP, se enviará solo una 
+fracci6n del stream de alta definición para no saturar  la estación de trabajo ni el 
+ancho de banda. 
+o Soporte para reducir el ancho de banda del cliente y la potencia de 
+procesamiento del computador cliente, al transmitir solo una fracción de una 
+escena completa cuando se hace zoom digital sobre esta. Esta func ionalidad 
+dinámica debe ser compatible para usuarios locales, usuarios remotos y 
+dispositivos móviles. 
+o El cliente debe tener la capacidad de limitar el ancho de banda de conexión 
+hacia el servidor. 
+o Compatibilidad con el "vencimiento de datos", lo que permi te grabar bajo el 
+mismo ID lógico transmisiones de alta y baja calidad. Después de un periodo 
+definido por el administrador, la transmisión superior se eliminará y la inferior 
+permanecerá hasta el final del periodo de retención deseado. 
+--- EETT DE CCVT.pdf - Page 9 ---
+ 
+ELABORACIÓN DEL ESTUDIO DEFINITIVO DEL PROYECTO “CREACIÓN DE 
+LOS SERVICIOS DEL HOSPITAL ESPECIALIZADO EN LA RED ASISTENCIAL 
+CAJAMARCA- ESSALUD, DISTRITO DE CAJAMARCA, PROVINCIA DE 
+CAJAMARCA Y DEPARTAMENTO DE CAJAMARCA” 
+ 
+CSL-185000-TIC-ETG-SGC-01  CESEL Ingenieros 
+TECNOLOGÍAS DE LA INFORMACIÓN Y COMUNICACIONE                                                                                                         MARZO 2020 
+116 de 156 
+o ONVIF compliance de perfil S. 
+o El VMS admitirá la recepción de activadores de entrada digital y la activación de 
+salidas digitales mediante una placa de E/S. 
+o El VMS proporcionara el mecanismo mediante el cual es posible preseleccionar 
+y configurar alarmas individuales procede ntes de sistemas externos (control de 
+acceso, etc.) para su monitorización y, a su vez, desencadenar operaciones de 
+video controladas por eventos. 
+o El VMS utilizara la potencia de la tarjeta de video para la descompresi6n de 
+video H.264 y no el procesador de la estación de trabajo 
+o El VMS protegerá los datos de video y audio para transmitir con seguridad todos 
+los datos de comandos y control a través de TCP/IP mediante claves 
+criptográficas basadas en SSL para evitar el espionaje o la manipulación. 
+o El VMS tendrá un proceso sencillo para actualizar las versiones: 
+ Puede actualizarse desde una versión a otra sin tener que desinstalar la 
+versión anterior. 
+ Detecta automáticamente si los firmwares de las cámaras están 
+desactualizadas al software actualmente instalado y lo actualiza. 
+ Detecta automáticamente si el software de la aplicación cliente está obsoleto 
+respecto al software de servidor instalado y lo actualiza. 
+o El VMS detectara si se pierde la señal de audio o video y alerta al administrador 
+del sistema. 
+o El VMS permitirá cambiar el nombre de todas las fuentes de video y audio, así 
+como los NVR. 
+o El VMS ofrecerá la posibilidad de crear mensajes en pantalla personalizados y 
+notificaciones por correo electrónico. 
+o El VMS proporcionara un registro de mantenimiento y u n registro de auditoria de 
+todos los errores y eventos del sistema. 
+o El VMS admitirá la comunicación bidireccional de audio full-duplex. 
+ El VMS permitirá vincular cualquier fuente de audio a cualquier fuente de 
+video. 
+ Puede vincular varias fuentes de audio a una sola fuente de video. 
+ Puede vincular una fuente de audio a varias fuentes de video. 
+ El VMS proporcionara la capacidad de sincronizar el audio y el video en la 
+reproducción, independientemente de los parámetros de video, audio, red o 
+almacenamiento. 
+o El VMS admitirá la supervisión de video en tiempo real o grabado de 1 a 64 
+flujos de video simultáneos en un único monitor, con diferentes configuraciones: 
+1x1, 2x2, 4x4, etc. y, además, editarlas según las necesidades del operador. 
+o El VMS debe incluir Integración con Active Directory de Windows. 
+--- EETT DE CCVT.pdf - Page 10 ---
+ 
+ELABORACIÓN DEL ESTUDIO DEFINITIVO DEL PROYECTO “CREACIÓN DE 
+LOS SERVICIOS DEL HOSPITAL ESPECIALIZADO EN LA RED ASISTENCIAL 
+CAJAMARCA- ESSALUD, DISTRITO DE CAJAMARCA, PROVINCIA DE 
+CAJAMARCA Y DEPARTAMENTO DE CAJAMARCA” 
+ 
+CSL-185000-TIC-ETG-SGC-01  CESEL Ingenieros 
+TECNOLOGÍAS DE LA INFORMACIÓN Y COMUNICACIONE                                                                                                         MARZO 2020 
+117 de 156 
+o El VMS debe permitir editar el árbol de sitio para múltiples sites. 
+o El VMS debe contar con un esquema de jerarquías corporativas para los 
+usuarios. 
+o El VMS debe incluir la funcionalidad de matriz virtual. 
+o El VMS debe  permitir la funci6n de colaboración, es decir que un operador 
+pueda compartir sus vistas con un supervisor y ambos puedan monitorear las 
+imágenes de forma simultánea. 
+o El VMS debe ser de arquitectura redundante de grabación y de la base de datos 
+del sistema de forma autor natica (failover) en una arquitectura 1: N. 
+o EL VMS debe ser del tipo multisitio. 
+ 
+ El software del cliente  del sistema VMS debe cumplir como minimo lo siguiente: 
+o Sin límite de la cantidad de monitores usados para supervisar los flujos de video 
+y audio conectados a una sola estación de trabajo. 
+o Monitoreo de video en vivo, grabado y flujos de audio simultáneamente en el 
+mismo monitor. 
+o Permitirá la visualización de video grabado o en vivo con diferentes niveles de 
+zoom y distintas áreas de interés en el mismo monitor. 
+o Permitirá cambiar a demanda el video en vivo a video grabado durante una 
+reproducción instantánea del video recientemente grabado. 
+o Admitirá la creación de vistas ilimitadas con presentaciones únicas de flujo de 
+video. 
+o Permitirá alternar entre vistas de pantalla completa y en mosaico. 
+o Permitirá guardar las vistas. 
+o Permitirá realizar un recorrido por las vistas (control de rondas) basado en un 
+intervalo especificado. 
+o Mostrará todas las fuentes de video conectadas al sistema. 
+o Permitirá arrastrar y soltar fuentes desde el árbol del sistema. Las fuentes 
+incluyen, entre otros: 
+ Una fuente de video/audio para visualizaciones grabadas y en directo. 
+ Una vista de diseño predefinida de las fuentes de video/audio. 
+ Dispositivos integrados o de otros fabricantes. 
+ Páginas web. 
+ Mapas gráficos. 
+o El VMS permitirá configurar como se visualizará el árbol del sistema. 
+o Gestión de alarmas y salidas digitales: 
+o El VMS permitirá crear marcadores de alarmas. 
+o El VMS admitirá la creaci6n de marcadores para video y audio grabado. 
+--- EETT DE CCVT.pdf - Page 11 ---
+ 
+ELABORACIÓN DEL ESTUDIO DEFINITIVO DEL PROYECTO “CREACIÓN DE 
+LOS SERVICIOS DEL HOSPITAL ESPECIALIZADO EN LA RED ASISTENCIAL 
+CAJAMARCA- ESSALUD, DISTRITO DE CAJAMARCA, PROVINCIA DE 
+CAJAMARCA Y DEPARTAMENTO DE CAJAMARCA” 
+ 
+CSL-185000-TIC-ETG-SGC-01  CESEL Ingenieros 
+TECNOLOGÍAS DE LA INFORMACIÓN Y COMUNICACIONE                                                                                                         MARZO 2020 
+118 de 156 
+ El VMS admitirá la protecci6n de un marcador para que los datos de audio y 
+video nunca se sobrescriban. 
+ El VMS admitirá marcadores privados que solo son visibles para el usuario 
+que designó un marcador como privado y para el administrador del sistema. 
+o El VMS permitirá crear un mapa que representa la ubicación física de las 
+cámaras y de otros dispositivos en todo el sistema de vigilancia. 
+ Los mapas se podrán crear a partir de imágenes almacenadas en formatos 
+de imagen estándares.  Esto incluye, entre otros, los siguientes: JPEG, BMP, 
+PNH, GIF, etc. 
+ Los mapas deberán contener enlaces para crear una jerarquía de mapas 
+intervinculados. 
+ La cámara en un mapa aparece resaltada cuando se dispara una alarma 
+vinculada a la cámara. 
+o El VMS admitirá la n avegación de video y audio grabado. Esto incluye, entre 
+otros, los siguientes métodos: 
+ Calendario 
+- Linea de tiempo. 
+ Eventos. 
+ El VMS permitirá la búsqueda a través de video y audio grabado en función 
+de distintos criterios de búsqueda. Esto incluye, entre ot ros, los siguientes 
+parámetros: 
+- Hora. 
+- Fecha. 
+- Fuente de video. 
+- Alarma(s) o evento(s). 
+ Movimiento en áreas definidas por el usuario (búsqueda por pixeles). 
+ Marcadores. 
+ El VMS admitirá la realización de una búsqueda mediante una serie de 
+imágenes en miniatura. 
+- Las miniaturas se pueden basar en la región completa de la imagen o en un 
+area preseleccionada. 
+- Las miniaturas se pueden apilar para permitir una busqueda secundaria 
+automatica cuando se observa un periodo grande en un video. 
+ El VMS admitirá la búsqueda de eventos de alarmas y analítica de video 
+proveniente de las cámaras. 
+o El VMS permitirá la capacidad de exportar video grabado en los siguientes 
+formatos, incluyendo, pero no limitándose a: Nativo, JPEG, PNG, TIFF, AVI, 
+WAV, PDF. 
+--- EETT DE CCVT.pdf - Page 12 ---
+ 
+ELABORACIÓN DEL ESTUDIO DEFINITIVO DEL PROYECTO “CREACIÓN DE 
+LOS SERVICIOS DEL HOSPITAL ESPECIALIZADO EN LA RED ASISTENCIAL 
+CAJAMARCA- ESSALUD, DISTRITO DE CAJAMARCA, PROVINCIA DE 
+CAJAMARCA Y DEPARTAMENTO DE CAJAMARCA” 
+ 
+CSL-185000-TIC-ETG-SGC-01  CESEL Ingenieros 
+TECNOLOGÍAS DE LA INFORMACIÓN Y COMUNICACIONE                                                                                                         MARZO 2020 
+119 de 156 
+o El VMS permitirá exportar video en formato nativo. El video exportado en 
+formato nativo hará lo siguiente: 
+ Firmará digitalmente el video y audio grabado usando un cifrado de 256
+ bits; por tanto, el video se puede autenticar con fines probatorios. 
+ Podrá exportar video de uno o vario s flujos de cámara de manera 
+simultánea. 
+ Admitirá revisar un video y audio exportado en un cliente seguro. 
+ Admitirá revisar la copia de seguridad de video y audio en un cliente seguro. 
+ Permitirá la exportación de video en frecuencias de actualización de 
+imágenes más bajas que las grabadas originalmente. 
+ Admitirá exportar un área designada del video desde el campo de visión de 
+la cámara. 
+ Incluirá las propiedades de la cámara. Esto incluye, entre otras cosas: 
+- Zona horaria. 
+- Parametros de video y audio grabados. 
+- Metadatos de eventos/alarmas. 
+o Contraseñas de autenticación para validar la autenticidad/validez de la fuente. 
+o Admite exportación adicional en formatos nativos o abiertos. 
+o El VMS permitirá la capacidad de mostrar superposiciones de imagen. Esto 
+incluye, entre otros, los siguientes: 
+ Nombre de cámara. 
+ Ubicación de la camera. 
+ Marca de hora. 
+ Marca de hora activa. 
+ Indicador de grabación. 
+ Actividad de movimiento. 
+ Eventos analíticos. 
+o En el caso de los eventos de analítica, el VMS   proporcionara un cuadro 
+delimitador con un c6digo de color alrededor de los objetos en movimiento 
+categorizados como humanos o vehículos. Es decir, un color diferente por cada 
+tipo de objeto. Todas las licencias de analíticas provenientes de las cámaras 
+deben estar incluidas en la propuesta. 
+o No debe generarse alarmas por presencia de animales u otro tipo de objetos. 
+o Los siguientes comportamientos deben estar incluidos para la configuración en 
+el software de BMS: 
+ Personas o vehículos en una zona restringida: 
+- Personas o vehiculos que aparecen en la zona. 
+- Personas o vehiculos que abandonan en la zona. 
+--- EETT DE CCVT.pdf - Page 13 ---
+ 
+ELABORACIÓN DEL ESTUDIO DEFINITIVO DEL PROYECTO “CREACIÓN DE 
+LOS SERVICIOS DEL HOSPITAL ESPECIALIZADO EN LA RED ASISTENCIAL 
+CAJAMARCA- ESSALUD, DISTRITO DE CAJAMARCA, PROVINCIA DE 
+CAJAMARCA Y DEPARTAMENTO DE CAJAMARCA” 
+ 
+CSL-185000-TIC-ETG-SGC-01  CESEL Ingenieros 
+TECNOLOGÍAS DE LA INFORMACIÓN Y COMUNICACIONE                                                                                                         MARZO 2020 
+120 de 156 
+ Persona deambulante. 
+ Personas o vehículos que cruzan una línea virtual. 
+ Dirección prohibida. 
+ Detecci6n de manipulación. 
+o  El software debe permitir hacer b0squedas por apariencias. Es decir, si 
+encontramos una persona sospechosa en una de las cámaras, el software debe 
+poder buscar y mostrar apariencias similares en todas las cámaras con 
+funciones de analítica dentro del hospital, para hacer un seguimiento de las 
+áreas donde transito esta persona sospechosa. 
+ 
+14.5. SISTEMA DE GRABACIÓN EN RED NVR – NVR DE FAILOVER 
+ 
+El NVR debe estar testeado, homologado y suministrado por el fabricante del 
+software de video vigilancia propuesto, con el propósito de garantizar el correcto 
+desempeño del sistema. 
+Este debe cumplir las siguientes especificaciones técnicas: 
+o Velocidad de grabación: Mínimo 1200 Mbps. 
+o Velocidad de Visualización: Mínimo 600 Mbps. 
+o Canales de cámara: Hasta 150. 
+o Frames por segundo: Hasta 30 imágenes por segundo por canal. 
+o Sistema operativo: Microsoft® Windows 2012 Server o superior. 
+o  Procesador: 
+ Cantidad de núcleos: 6  
+ Cantidad de subprocesos: 12 
+ Frecuencia básica del procesador: 2,40 GHz. 
+ Frecuencia turbo máxima: 3,20 GHz. 
+ Cache: 15 MB 
+o Arreglo de Discos: Intercambiable en caliente, RAID 6 
+o Capacidad de almacenamiento: 48 TB en total por NVR, 8X6TB Discos tipo 7.2K 
+SAS, Grabaci6n RAID 6. 
+o Discos del Sistema: 2x250GB en RAID 1 para el SO y software de gestión de 
+video. 
+o Memoria: 16 GB RAM DDR4. 
+o Interfaz de red: 2 puertos de 10 GbE  SFP+, 4 puertos de 1 GbE RJ-45 
+(1000Base-T). 
+o Salidas de video : 2 VGA. 
+o Formato: Chasis de montaje en bastidor 2U. 
+o Entrada de alimentación: 100 a 240 VCA, 50/60 Hz, conmutación automática. 
+--- EETT DE CCVT.pdf - Page 14 ---
+ 
+ELABORACIÓN DEL ESTUDIO DEFINITIVO DEL PROYECTO “CREACIÓN DE 
+LOS SERVICIOS DEL HOSPITAL ESPECIALIZADO EN LA RED ASISTENCIAL 
+CAJAMARCA- ESSALUD, DISTRITO DE CAJAMARCA, PROVINCIA DE 
+CAJAMARCA Y DEPARTAMENTO DE CAJAMARCA” 
+ 
+CSL-185000-TIC-ETG-SGC-01  CESEL Ingenieros 
+TECNOLOGÍAS DE LA INFORMACIÓN Y COMUNICACIONE                                                                                                         MARZO 2020 
+121 de 156 
+o Fuente de alimentación : Redundante e intercambiable en caliente. 
+o Consumo de energía: 495 W 
+o Temperatura de funcionamiento: 10 °C a 35 °C 
+o Humedad relativa: 5 - 95% (sin condensación). 
+o Con contrato de soporte en sitio para atención de garantías con tiempo de 
+respuesta no mayor a 4 horas. 
+ 
+14.6. ESTACIONES DE TRABAJO DE SUPERVISIÓN 
+ 
+La estación de trabajo debe ser para use profesional permitiendo operación 
+continua de 24 horas por día y 7 días por semana. La estación de trabajo debe 
+venir con garantía de fábrica y validado por el fabricante de CCTV. Debe operar 
+con la tensión y frecuencia de red local y sus  posibles variaciones sin necesidad de 
+transformadores. 
+Adicionalmente, debe contar con soporte en sitio para atenci6n de garantías con 
+tiempo de respuesta no mayor a 24 horas. 
+Las especificaciones mínimas para la estación de trabajo son las siguientes: 
+o Flujos de visualización: Hasta 72 
+o Sistema operativo: Microsoft® Windows 10 
+o Procesador: 
+ Cantidad de núcleos: 4. 
+ Cantidad de subprocesos: 4. 
+ Frecuencia básica del procesador: 3,30 GHz. 
+ Frecuencia turbo máxima: 3,90 GHz. 
+ Cache: 6 MB. 
+o Memoria: 8 GB RAM DDR4. 
+o Interfaz de red: 2 puerto Gigabit Ethernet RJ-45 (1000Base-T). 
+o Salidas de video: 2 activas (1 DisplayPort y 1 DVI/HDMI). 
+o Unidad óptica: 1 DVD-RW. 
+o Entrada de alimentación: 100 a 240 VCA, 50/60 Hz, conmutación automática. 
+o Consumo de energía: 290 W. 
+o Temperatura de funcionamiento: 10 °C a 35 °C. 
+o Humedad relativa: 20 - 80% (sin condensación). 
+o Dos (02) Monitores de 22", teclado, mouse. 
+ 
+La estación de trabajo tendrá instalado software cliente de visualización que incluye 
+las características descritas para el sistema de gestion de video vigilancia 
+ 
+14.7. ESTACIÓN DE TRABAJO PARA MATRÍZ VIRTUAL  
+--- EETT DE CCVT.pdf - Page 15 ---
+ 
+ELABORACIÓN DEL ESTUDIO DEFINITIVO DEL PROYECTO “CREACIÓN DE 
+LOS SERVICIOS DEL HOSPITAL ESPECIALIZADO EN LA RED ASISTENCIAL 
+CAJAMARCA- ESSALUD, DISTRITO DE CAJAMARCA, PROVINCIA DE 
+CAJAMARCA Y DEPARTAMENTO DE CAJAMARCA” 
+ 
+CSL-185000-TIC-ETG-SGC-01  CESEL Ingenieros 
+TECNOLOGÍAS DE LA INFORMACIÓN Y COMUNICACIONE                                                                                                         MARZO 2020 
+122 de 156 
+ 
+Se debe suministrar un arreglo de monitores de 50 " de 4x2. Estos monitores deben 
+ir conectados a unas estaciones de trabajo que deben estar testeados, 
+homologados y suministrados po r el fabricante del software de video vigilancia 
+propuesto, con el propósito de garantizar el correcto desempeño del sistema. 
+Adicionalmente, debe contar c on soporte en sitio para atenció n de garantías con 
+tiempo de respuesta no mayor a 24 horas. 
+ 
+La estac ión de trabajo para la matriz virtual debe tener las siguientes 
+características: 
+o Flujos de visualización: Hasta 144. 
+o Velocidad de visualización: Hasta 80 Mbps. 
+o Sistema operativo: Microsoft® Windows 10. 
+o Procesador: 
+ Cantidad de núcleos: 4. 
+ Cantidad de subprocesos: 4. 
+ Frecuencia básica del procesador 3,30 GHz. 
+ Frecuencia turbo máxima: 3,90 GHz. 
+ Cache: 6 MB. 
+o Memoria: 8 GB RAM. 
+o Interfaz de red:  1 puerto Gigabit Ethernet RJ-45 (1000Base-T). 
+o Salidas de video: 4 activas (2 Display Port y 2 DVI). 
+o Unidad óptica: 1 DVD-RW. 
+o Entrada de alimentación: 100 a 240 VCA,50/60 Hz, conmutación automática. 
+o Consumo de energía: 635 W. 
+o Temperatura de funcionamiento: 10 °C a 35 °C. 
+o Humedad relativa: 20 - 80% (sin condensación). 
+o Dos (02) M onitores de 22" para cada operador, teclado, m ouse por 
+estación. 
+ 
+14.8. JOYSTICK 
+El sistema deberá contar con joystick de CCTV se conecta en la PC en el que se 
+ejecuta el software de gesti6n y monitoreo, el mismo que permitirá a los operadores 
+y supervisor controlar las cámaras domo. Deberá tener como mínimo: 
+o Control variable completo de domos de alta velocidad. 
+o Control PTZ: Joystick (3-axis twist zoom). 
+o Interface: USB. 
+--- EETT DE CCVT.pdf - Page 16 ---
+ 
+ELABORACIÓN DEL ESTUDIO DEFINITIVO DEL PROYECTO “CREACIÓN DE 
+LOS SERVICIOS DEL HOSPITAL ESPECIALIZADO EN LA RED ASISTENCIAL 
+CAJAMARCA- ESSALUD, DISTRITO DE CAJAMARCA, PROVINCIA DE 
+CAJAMARCA Y DEPARTAMENTO DE CAJAMARCA” 
+ 
+CSL-185000-TIC-ETG-SGC-01  CESEL Ingenieros 
+TECNOLOGÍAS DE LA INFORMACIÓN Y COMUNICACIONE                                                                                                         MARZO 2020 
+123 de 156 
+o Múltiples botones para pre configuración en 3 funciones: joystick, reproductor de 
+imágenes y teclado para funciones de cámara y/o software. 
+o Todas las funciones deben ser  100% compatibles con el software propuesto y 
+utilizados por el operador de CCTV. 
+o Temperatura de operaci6n: 0°C - +40°C. 
+o Certificación: EN y FCC. 
+ 
+14.9. MONITOR DE 50” PARA VISUALIZACIÓN 
+ 
+Tamaño de Pantalla  50” 
+Tecnología de Panel  IPS 
+Formato   16:09 
+Resolución Nativa  1920 x 1080 (FHD) 
+Pixeles (HxVx3)  6,220,800 
+Brillo   450cd/m2 
+Contraste  1,200:1 
+Contraste Dinámico  500,000:1 
+Angulo de Visión  178 x 178 
+Profundidad de Color  1.06 Billion (10-bit) 
+Tratamiento de Superficie  Capa de Protección (3H), 
+Tratamiento Anti Reflejo del 
+Polarizado Frontal (Opacidad  
+10%) 
+Tiempo de Vida  50,000 Hrs. 
+Orientación  Vertical & Horizontal 
+VIDEO (PC)   
+Máxima Resolución de 
+Entrada 
+ 1920 X 1080@ 60Hz(RGB, 
+HDMI, DVI-D) 
+H-Frecuencia de Escaneo  30 — 83kHz (RGB, HDMI, DVI-
+D) 
+V-Frecuencia de Escaneo  56-75Hz(RGB) / 56 -60 
+Hz(HDMI, DVI-D) 
+Frecuencia de Pixel  148.5MHz(RGB, HDMI, DVI-D) 
+Compatibilidad de 
+Sincronización 
+ Separado / Digital 
+Entrada de Video  RGB, HDMI, DVI -D, 
+Component, AV 
+--- EETT DE CCVT.pdf - Page 17 ---
+ 
+ELABORACIÓN DEL ESTUDIO DEFINITIVO DEL PROYECTO “CREACIÓN DE 
+LOS SERVICIOS DEL HOSPITAL ESPECIALIZADO EN LA RED ASISTENCIAL 
+CAJAMARCA- ESSALUD, DISTRITO DE CAJAMARCA, PROVINCIA DE 
+CAJAMARCA Y DEPARTAMENTO DE CAJAMARCA” 
+ 
+CSL-185000-TIC-ETG-SGC-01  CESEL Ingenieros 
+TECNOLOGÍAS DE LA INFORMACIÓN Y COMUNICACIONE                                                                                                         MARZO 2020 
+124 de 156 
+Color de Temperatura  Cálido, Mediano, Frio. 
+CONECTIVIDAD 
+ENTRADA   
+Digital 
+(con HDCP) 
+HDMI O(1) 
+DP X 
+DVI-D O(1) 
+ANALOGO RGB O(1), Componente 
+Compartido/AV 
+AUDIO  X 
+Control Externo RS232C O(1) 
+RJ45 O(1) 
+IR 
+RECEIVER 
+O(1) 
+PIXEL 
+SENSOR 
+X 
+USB  O(1) 
+Formatos HDTV   
+SALIDA   
+Digital (con HDCP) DVI-D O(1) 
+Audio  X 
+Salida para Parlantes 
+Externos 
+ X 
+Control Externo RS232C O(1) 
+ ESPECIFICACIONES FÍSICAS 
+Color de Bisel  Negro 
+Ancho de Bisel  3.2mm(izquierda/superior) / 
+1.7mnn(derecha/inferior) 
+Dimensiones de Monitor 
+(Ancho x Altura x 
+Profundidad) 
+ 104.49cm x 59.0cm x 8.99cm 
+VESATM Sistema de 
+Colgado Estándar 
+ 600mm x 400mm 
+ESPECIFICACIONES ESPECIALES 
+Sensor de Temperatura  si 
+Modo Videowall  Si, Nativo hasta 15x15 Cadena 
+Daisy  
+Chain 
+Modo Natural @ Modo  Si 
+--- EETT DE CCVT.pdf - Page 18 ---
+ 
+ELABORACIÓN DEL ESTUDIO DEFINITIVO DEL PROYECTO “CREACIÓN DE 
+LOS SERVICIOS DEL HOSPITAL ESPECIALIZADO EN LA RED ASISTENCIAL 
+CAJAMARCA- ESSALUD, DISTRITO DE CAJAMARCA, PROVINCIA DE 
+CAJAMARCA Y DEPARTAMENTO DE CAJAMARCA” 
+ 
+CSL-185000-TIC-ETG-SGC-01  CESEL Ingenieros 
+TECNOLOGÍAS DE LA INFORMACIÓN Y COMUNICACIONE                                                                                                         MARZO 2020 
+125 de 156 
+Videowall 
+Selección de Entrada de 
+Conector 
+ Digital(HDMI / DVI) I 
+Analogo(RGB) I Componente / 
+USB 
+Idioma (OSD)  Español 
+Idioma (USB Playback)  Español 
+Idioma (Manual)  Español 
+Idioma (ESG)  Español 
+Método ISM  Normal, Borrado de Color 
+Controles Avanzados  Contraste Dinámico, Color 
+Dinámico, Rango de Color, 
+Color de Piel, Color Celeste, 
+Color de Cesped, Gamma 
+Hora  Reloj, Apagado Automático / 
+Encendido Automático, 
+Apagado Automático (15 min.), 
+Espera Automática. 
+Información   Modelo/Tipo, Versión de S/W, 
+Número de Serie, Dirección IP, 
+Direcci6n Mac, Página de 
+Bienvenida 
+Etiqueta de Entrada  Si 
+Encendido 
+Automático/Fuente de 
+Memoria 
+ Si  
+Selección de DPM (Gestión 
+de Alimentación de Pantalla) 
+ Si (menú de instalación)  
+Ahorro de Energía  Si, Desconectado / Mínimo / 
+Medio / Máximo / Quitar 
+Imagen 
+Ahorro Inteligente de Energía  Si  
+Reproducción de Archivos 
+mediante 
+USB 
+ Si  
+Opciones Avanzadas de 
+Imagen 
+ Reducción de Ruido, 
+Reducción de Ruido MPEG, 
+Nivel de Oscuridad, Cine Real 
+Retardo de Encendido  Si (Menú de Instalación) 
+--- EETT DE CCVT.pdf - Page 19 ---
+ 
+ELABORACIÓN DEL ESTUDIO DEFINITIVO DEL PROYECTO “CREACIÓN DE 
+LOS SERVICIOS DEL HOSPITAL ESPECIALIZADO EN LA RED ASISTENCIAL 
+CAJAMARCA- ESSALUD, DISTRITO DE CAJAMARCA, PROVINCIA DE 
+CAJAMARCA Y DEPARTAMENTO DE CAJAMARCA” 
+ 
+CSL-185000-TIC-ETG-SGC-01  CESEL Ingenieros 
+TECNOLOGÍAS DE LA INFORMACIÓN Y COMUNICACIONE                                                                                                         MARZO 2020 
+126 de 156 
+Memoria Interna  No 
+Wi-Fi  Si 
+CONDICIONES AMBIENTALES 
+Temperatura de 
+Funcionamiento 
+ 0 °C a 40 °C 
+Humedad de Funcionamiento  10 % a 80 % 
+ALIMENTACIÓN 
+Fuente de Alimentación  100-240V—, 50/60Hz 
+Tipo   Integrado  
+Interruptor de Fuente  No  
+Consumo de Energía   
+Típica   130W 
+Ahorro inteligente de energía   85W 
+DPM  0.7W 
+Apagado  0.5W 
+ESTÁNDARES (CERTIFICACIÓN) 
+Seguridad  UL / cUL / CB / TUV / KC 
+EMC  FCC Class "A" / CE / KCC 
+ErP / Energy Star  NA / Si (Energy Star 6.0) 
+COMPATIBILIDAD CON REPRODUCTOR DE CONTENIDOS 
+Ranura para compatibilidad 
+de PC (opcional) 
+ No 
+Compatible con Reproductor 
+de Contenidos Externo 
+ Si  
+COMPATIBILIDAD DE SOFTWARE 
+SuperSign-w lite  Si  
+SuperSign-c  Si 
+ACCESORIOS 
+Accesorio  Control Remoto, Cable de 
+Poder, Cable DVI, Manual, IR 
+Receiver, Cable RS -232C, 
+Guía de Soporte, Tornillo 
+Accesorio Opcional  Soporte para Pared: WM -
+L640V(Horizontal), WM -
+P640V(Vertical) 
+ 
+14.10. CENTRO DE CONTROL 
+ 
+--- EETT DE CCVT.pdf - Page 20 ---
+ 
+ELABORACIÓN DEL ESTUDIO DEFINITIVO DEL PROYECTO “CREACIÓN DE 
+LOS SERVICIOS DEL HOSPITAL ESPECIALIZADO EN LA RED ASISTENCIAL 
+CAJAMARCA- ESSALUD, DISTRITO DE CAJAMARCA, PROVINCIA DE 
+CAJAMARCA Y DEPARTAMENTO DE CAJAMARCA” 
+ 
+CSL-185000-TIC-ETG-SGC-01  CESEL Ingenieros 
+TECNOLOGÍAS DE LA INFORMACIÓN Y COMUNICACIONE                                                                                                         MARZO 2020 
+127 de 156 
+El centro de control constara de 02  operadores y 01 supervisor con su respectiva 
+estación de operación con 02 monitores de 22” cada una. Adicionalmente se 
+deberá instalar 08 monitores de 50 “LED conectados a las estaciones de 
+visualización de la matriz virtual. Cada estación de trabajo debe tener conectado su 
+teclado de operación de CCTV. 
+Adicionalmente el presente proyecto contempla la adecuación física del Centro de 
+Monitoreo, con la implementación del mobiliario para los operadores del sistema. 
+ 
+14.11. LICENCIA DE SOFTWARE DE SERVIDORES, DE ESTAC IONES DE TRABAJO, 
+DE DECODERS Y LICENCIAS DE USUARIOS.  
+ 
+o El licenciamiento deberá ser a perpetuidad. 
+o Las actualizaciones del software o firmware no deberán tener costo, caso 
+contrario deberán ser asumidas por el postor durante el tiempo de garantía. 
+o Licencia del antivirus de los servidores y de la estación de trabajo por el periodo 
+de garantía.  
+o Deberá incluir algún otro software si es requerido por el sistema para su 
+funcionamiento con su respectivo licenciamiento perpetuo. 
+ 
+15. SISTEMA DE CONTROL DE ACCESO 
+ 
+15.1. SERVIDOR  
+o Procesador de 4 núcleos mínimo, 3.1 GHz., 8 MB, 80W o superior. 
+o Arquitectura de 64 bits. 
+o Memoria RAM: 16 GB DDR4 o superior. 
+o Disco Duro: 1,000 GB Hot plug Sata o superior. 
+o Servidor rackeable de 19” para ser montados en gabinete metálico con una 
+altura no mayor de 2 RU. 
+o Debe ser de tecnología IP. 
+o Debe tener dos (02) puertos Ethernet 10/100/1000 Mbps o 10 Gbps. 
+o Quemador de DVD o superior. 
+o Incluir software Sistema operativo (Windows 10 Pro/Enterp rise, Windows Server 
+2016/2019, los sistemas operativos deben tener instalada la última versión de su 
+service pack y las actualizaciones pertinentes). 
+o Condiciones de funcionamiento: 
+ Voltaje: 220V, 60 Hz. 
+ Temperatura: 27°C 
+ Humedad relativa: 60% 
+--- MD DE CCTV.pdf - Page 1 ---
+ 
+ELABORACIÓN DEL ESTUDIO DEFINITIVO DEL PROYECTO “CREACIÓN DE 
+LOS SERVI CIOS DEL HOSPI TAL ESPECIALIZADO EN LA RED ASI STENCIAL 
+CAJ AMARCA- ES S ALUD, DIS TRITO DE CAJ AMARCA, P ROVINCIA DE 
+CAJ AMARC A Y DEP ARTAMENTO DE CAJ AMARCA” 
+ 
+ 
+ 
+LISTADO DE COMPONENTES DEL SISTEMA DE TELEVISIÓN 
+ITEM COMPONENTE 
+01 AMPLIFICADOR DE VIDEO 
+02 REPRODUCTOR BLURAY 
+03 MODULADOR TV-CABLE 
+04 ANTENA AEREA EXTERNA 
+05 ESTACIÓN DE TRABAJO CON MONITOR DE 24" 
+06 AMPLIFICADOR LINEAL DE VIDEO 
+07 TELEVISOR LED SMART 42"  
+08 TELEVISOR LED SMART 65"  
+09 RACK PARA TELEVISORES DE TECHO O PARED 
+ 
+ 
+ 
+10.6. SISTEMA DE VIDEO VIGILANCIA Y SEGURIDAD. 
+ 
+10.6.1. DESCRIPCIÓN. 
+ 
+La solución a implementarse se basa en un sistema que permite gestionar la seguridad del 
+establecimiento de salud por medio de imágenes y videos obtenidos por las diferentes cámaras 
+ubicadas al interior y exterior del establecimiento. 
+ 
+Además, permitirá implementar un sistema de asistencia remota, monitoreo de calidad de atención y 
+registro de sucesos. 
+ 
+El presente proyecto contempla diferentes tipos de cámaras IP, conectadas a partir de la 
+infraestructura de red presente en el complejo hospitalario, con una solución de almacenaje para 60  
+días mínimo de grabación a máxima resolución. El almacenamiento se realizará en el propio  
+servidor o NVR (Network Video Record) del sistema. 
+ 
+Deberá ser redundante el NVR (1+1) que incluya el almacenamiento y los controladores. 
+ 
+Se ha previsto  instalar cámaras IP ONVIF en todos los accesos y salidas de exteriores (salidas de 
+emergencia, etc.) núcleos de ascensores, pasillos públicos, accesos a sa las técnicas y zona de 
+estacionamiento. 
+ 
+CSL -185000-TIC -MD-01  CESEL I ngenieros  
+TECNOLOGIA DE LA INFORMACION Y COMUNICACIONES                                                                                                                 M ARZO 2020 
+72 de138  
+ 
+--- MD DE CCTV.pdf - Page 2 ---
+ 
+ELABORACIÓN DEL ESTUDIO DEFINITIVO DEL PROYECTO “CREACIÓN DE 
+LOS SERVI CIOS DEL HOSPI TAL ESPECIALIZADO EN LA RED ASI STENCIAL 
+CAJ AMARCA- ES S ALUD, DIS TRITO DE CAJ AMARCA, P ROVINCIA DE 
+CAJ AMARC A Y DEP ARTAMENTO DE CAJ AMARCA” 
+ 
+Para las cámaras exteriores fijas estas deben disponer de opción grabación local mediante tarjeta 
+SD, para cuando exista perdida de conexión a la red de datos. 
+ 
+El sistema de grabación en red bajo sistema operativo,  preparado para almacenar la grabación de 
+todas las cámaras durante las 24 horas del día en formato de compresión H.264.y H.265. 
+ 
+Se deberá considerar un mobiliario adecuado ergonómico para centro de control y monitoreo.  
+ 
+Adicionalmente se está considerado un sistema de video vi gilancia independiente para el Centro de 
+Datos que comprende la sala Centro de Datos II  y la Sala de Administración de l Centro de D atos, 
+para ello es necesario implementar una solución que permita vigilar y registrar los eventos que   
+ocurren y éstos puedan ser supervisados, e valuando la pertinencia y la autorización de las 
+actividades que se realizarán en el Centro de Datos , se ha considerado cámaras interiores IP con 
+una solución de almacenaje para 60 días mínimo, grabación a máxima resolución. El 
+almacenamiento se realizará en el propio servidor o NVR  (Network Video Record) del  sistema y 
+contará con una estación de trabajo para monitoreo que se ubicará en la sala de administración de 
+datos. 
+ 
+10.6.2. TECNOLOGÍA DE DESARROLLO. 
+ 
+Todos los equi pos principales y auxiliares del sistema de video- vigilancia del establecimiento de 
+salud, estarán basados en:  
+ 
+o Ethernet a nivel de la capa física y la de enlace, y en Protocolo Internet (IPv4 e IPv6) a nivel de 
+la capa de red.  
+o La alimentación eléctrica de las cámaras de video será mediante el uso de PoE (Power over 
+Ethernet) nativo, con estándares de versiones mínimas IEEE 802.3af/at/az. 
+o Adicionalmente las cámaras PTZ móvil también serán energizadas con su propia fuente de 
+alimentación. 
+ 
+10.6.3. PRINCIPIO DE FUNCIONAMIENTO. 
+Está compuesto por el equipamiento que se va a utilizar para implementar una red de cámaras de 
+video IP, tanto en las áreas externas como internas del establecimiento de salud; y por el software 
+de gestión de dichos equipos, con gestión centralizada. 
+ 
+El sistema comprende el dimensionamiento de todo el equipamiento necesario para implementar y 
+poner en producción, el circuito de video vigilancia, la grabación de video en tiempo real; así como 
+CSL -185000-TIC -MD-01  CESEL I ngenieros  
+TECNOLOGIA DE LA INFORMACION Y COMUNICACIONES                                                                                                                 M ARZO 2020 
+73 de138  
+ 
+--- MD DE CCTV.pdf - Page 3 ---
+ 
+ELABORACIÓN DEL ESTUDIO DEFINITIVO DEL PROYECTO “CREACIÓN DE 
+LOS SERVI CIOS DEL HOSPI TAL ESPECIALIZADO EN LA RED ASI STENCIAL 
+CAJ AMARCA- ES S ALUD, DIS TRITO DE CAJ AMARCA, P ROVINCIA DE 
+CAJ AMARC A Y DEP ARTAMENTO DE CAJ AMARCA” 
+ 
+la reproducción del video grabado (almacenado en los  dispositivos de respaldo), para los casos que 
+se consideren necesarios. Siempre en NVR del propio sistema. 
+ 
+El sistema estará compuesto por: 
+ 
+o Servidor para la administración (NVR), grabación y almacenamiento, de la información 
+capturada por las cámaras IP, de manera individual o en grupo. 
+o Cámaras IP a color, fijas y móviles PTZ 360° las que estarán ubicadas en ambientes interiores 
+y exteriores, las cámaras contaran con la capacidad para realizar el almacenamiento de la 
+captura de video, ya sea a través de un disco duro interno o memoria SD, los cuales contaran 
+con capacidad suficiente para almacenar los streaming de video en caso de falla de la 
+conectividad con el servidor NVR. 
+o Para la estación de monitoreo de deberá considerar un arreglo de monitores para el monitoreo 
+de las cámaras de Video vigilancia, la matriz de monitores será de 4x2 con monitores de LED 
+de 42” de tipo industrial para funcionamiento 24 h. 
+o El sistema debe ser redundante en grabación y gestión, es decir debe tener como mínimo 02 
+equipos conectados entre sí que permitan la redundancia. 
+ 
+La estación de monitoreo se ubicará en la central de vigilancia y seguridad.  La instalación de los 
+equipos del sistema, será realizada, usando el sistema de cableado estructurado y las soluciones de 
+conectividad planificadas para el proyecto. 
+ 
+10.6.4. CONFIGURACIÓN. 
+ 
+Se garantizará el almacenamiento de los videos obtenidos por un periodo no menor a 30 días con 
+resolución mínima FULL HD (1080p) a 30 FPS para todas las cámaras. Asimismo, el sistema 
+contará con la sufic iente capacidad de almacenamiento para grabar video según parámetros 
+indicados o definidos en el presente párrafo. 
+Para efectos de cálculo, el porcentaje de actividad debe considerarse un 70% de actividad para 30 
+fps y el restante a 3 fps. En el caso de la s PTZ considerar 80%. Las cámaras se ubicarán en 
+accesos, zonas exteriores del establecimiento, corredores, almacenes y ambientes de custodia de 
+equipos y otro ambiente que se requiera por criterios de seguridad. 
+ 
+Las estaciones de monitoreo requeridas par a este proyecto estarán basadas en PC estándar 
+homologado o suministrado por el fabricante de todo el sistema de CCTV, e incluirá el software de 
+monitoreo. La estación de monitoreo, a través del software de monitoreo, permitirá a los operadores 
+tener fácil  manejo y control de todas las cámaras IP fijas y móviles a instalarse en el presente 
+proyecto hospitalario. Así mismo, cada estación de monitoreo contará con un monitor LED de alta 
+CSL -185000-TIC -MD-01  CESEL I ngenieros  
+TECNOLOGIA DE LA INFORMACION Y COMUNICACIONES                                                                                                                 M ARZO 2020 
+74 de138  
+ 
+--- MD DE CCTV.pdf - Page 4 ---
+ 
+ELABORACIÓN DEL ESTUDIO DEFINITIVO DEL PROYECTO “CREACIÓN DE 
+LOS SERVI CIOS DEL HOSPI TAL ESPECIALIZADO EN LA RED ASI STENCIAL 
+CAJ AMARCA- ES S ALUD, DIS TRITO DE CAJ AMARCA, P ROVINCIA DE 
+CAJ AMARC A Y DEP ARTAMENTO DE CAJ AMARCA” 
+ 
+resolución y teclado/joystick para el manejo/control de las cámaras IP dom os PTZ 360°. Para el 
+caso del video wall de video en red (hardware y software), se emplearán monitores LED. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+GRAFICO N° 11 - ESQUEMA LÓGICO DEL SISTEMA DE VIDEO VIGILANCIA Y SEGURIDAD 
+ 
+LISTADO DE COMPONENTES DEL SISTEMA DE VIDEO VIGILANCIA 
+ITEM COMPONENTE 
+01 
+DATA CENTER – SERVIDOR DE VIDEO Y GRABACIÓN (NVR) (INC. 
+SOFTWARE DE GESTIÓN Y MONITOREO DE VIDEO VIGILANCIA) 
+02 DATA CENTER- CÁMARA IP TIPO 2 (FIJA PARA INTERIORES MINIDOMO) 
+03 DATA CENTER- ESTACIÓN DE MONITOREO (INC. MONITOR DE 32") 
+04 
+EDIFICACION-SERVIDOR DE ADMINISTRACION Y GESTION PARA EL 
+SISTEMA DE VIDEO GIGILANCIA (CON REDUNDANCIA  1+1) 
+05 
+EDIFICACION- SOFTWARE DE GESTION DE VIDEO VIGILANCIA (CON 
+REDUNDANCIA 1+1) 
+06 
+EDIFICACION-SERVIDOR NVR- GRABACION EN RED (CON 
+REDUNDANCIA 1+1) 
+07 EDIFICACION-CAMARA IP COLOR TIPO FIJA 
+08 EDIFICACION-CAMARA IP COLOR TIPO MINIDOMO INTERIOR 
+09 EDIFICACION- CAMARA IP COLOR TIPO PTZ  
+10 
+EDIFICACION- ESTACION DE TRABAJO DE SUPERVISION. INCLUYE 
+MONITORES DE 22" Y MOOSE 
+SWITCH 
+PRINCIPAL
+SWITCH DE
+DISTRIBUCION 
+LAN
+SWITCH DE
+BORDE PoE
+CAMARAS FIJAS
+CAMARAS 
+MOVILES
+NVR
+ESTACIÓN DE 
+MONITOREO
+ALMACENAMIENTO
+SISTEMA DE
+TELE-PRESENCIA
+SWITCH DE
+DISTRIBUCION
+CENTRO DE DATOS
+SALA DE SERVIDORES
+SALIDA DE EQUIPO
+O USUARIO
+CUARTO DE 
+TELECOMUNICACIONES
+CENTRAL DE VIDEO 
+VIGILANCIA
+CSL -185000-TIC -MD-01  CESEL I ngenieros  
+TECNOLOGIA DE LA INFORMACION Y COMUNICACIONES                                                                                                                 M ARZO 2020 
+75 de138  
+ 
+--- MD DE CCTV.pdf - Page 5 ---
+ 
+ELABORACIÓN DEL ESTUDIO DEFINITIVO DEL PROYECTO “CREACIÓN DE 
+LOS SERVI CIOS DEL HOSPI TAL ESPECIALIZADO EN LA RED ASI STENCIAL 
+CAJ AMARCA- ES S ALUD, DIS TRITO DE CAJ AMARCA, P ROVINCIA DE 
+CAJ AMARC A Y DEP ARTAMENTO DE CAJ AMARCA” 
+ 
+11 EDIFICACION-MONITOR DE 50 " 
+12 EDIFICACION-ESTACION DE TRABAJO PARA MATRIZ DE VIDEO  
+13 EDIFICACION-JOYSTICK  
+ 
+10.7. SISTEMA DE CONTROL DE ACCESOS Y SEGURIDAD. 
+ 
+10.7.1. DESCRIPCIÓN. 
+ 
+La solución a implementarse se basa en un sistema que permite evitar el acc eso de personas no 
+autorizadas a algunas áreas del establecimiento de salud consideradas críticas, por la labor que se 
+realiza dentro de ellas, o por los bienes que se requiere resguardar y/o proteger. 
+El control de acceso tiene un servidor ubicado en el C entro de Datos y su estación de trabajo está 
+ubicada en la Central de Video Vigilancia y Seguridad. 
+Se han previsto lectores biométricos IP en todas las zonas de acceso al hospital, así como en zonas 
+de acceso restringido . Todos estos lectores IP (Biométri co /teclado /RFiD) estarán conectados a la 
+red Ethernet del edificio. 
+Adicionalmente se está considerando un sistema de Control de acceso independiente para el Data 
+Center que comprende la sala de Servidores y la sala Administración del Centro de D atos, permita 
+controlar y registrar los accesos físicos a los equipos  permitiendo que solo personal autorizado 
+acceda a equipos de TI . Permitirá llevar un registro informático de los históricos de acceso y  salida 
+del personal a las instalaciones del Centro de Datos. 
+ 
+10.7.2. TECNOLOGÍA DE DESARROLLO. 
+ 
+Todos los equipos principales y auxiliares del sistema de control de accesos y seguridad del 
+establecimiento de salud, estarán basados en: 
+ 
+o Ethernet a nivel de la capa física y la de enlace, y en Protocolo Internet (IP) a niv el de la capa 
+de red.  
+o La identificación por radiofrecuencia (RFID) debe basarse en el estándar ISO/IEC 14443 Tipo 
+A. 
+o La identificación biométrica dactilar debe basarse en el estándar ISO/IEC 19794-2. 
+o La alimentación eléctrica de los dispositivos biométric os será mediante el uso de PoE (Power 
+over Ethernet) nativo, con estándares de versiones mínimas IEEE 802.3af/at/az. 
+ 
+10.7.3. PRINCIPIO DE FUNCIONAMIENTO. 
+ 
+Las puertas de los ambientes críticos serán conectadas a un sistema de control de acceso electro 
+magnético, controlado por medio un lector biométrico.  
+CSL -185000-TIC -MD-01  CESEL I ngenieros  
+TECNOLOGIA DE LA INFORMACION Y COMUNICACIONES                                                                                                                 M ARZO 2020 
+76 de138  
+ 

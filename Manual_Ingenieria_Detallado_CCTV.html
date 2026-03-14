@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<style>
+    body { font-family: Calibri, sans-serif; line-height: 1.6; color: #333; max-width: 900px; margin: 40px auto; padding: 20px; }
+    .header { text-align: center; border-bottom: 3px solid #01579b; margin-bottom: 30px; padding-bottom: 10px; }
+    h1 { color: #01579b; font-size: 24pt; margin-bottom: 5px; }
+    h2 { color: #2e7d32; font-size: 18pt; border-left: 6px solid #2e7d32; padding-left: 15px; margin-top: 40px; }
+    h3 { color: #e65100; font-size: 14pt; text-decoration: underline; margin-top: 25px; }
+    table { width: 100%; border-collapse: collapse; margin: 20px 0; font-size: 10pt; }
+    th, td { border: 1px solid #000; padding: 10px; text-align: left; }
+    th { background-color: #f2f2f2; font-weight: bold; }
+    .section-box { border: 1px solid #ccc; background-color: #fafafa; padding: 20px; margin: 20px 0; border-radius: 8px; }
+    .important { color: #d32f2f; font-weight: bold; }
+    .code-block { background: #263238; color: #ffffff; padding: 15px; font-family: 'Consolas', monospace; border-radius: 5px; font-size: 9pt; }
+    .diagram-placeholder { background: #fdfdfd; border: 2px dashed #999; padding: 20px; text-align: center; color: #666; font-style: italic; }
+</style>
+</head>
+<body>
+
+<div class="header">
+    <h1>PROYECTO TÉCNICO DE INGENIERÍA: CCTV HOSPITAL CAJAMARCA</h1>
+    <p><strong>Referencia:</strong> CREACIÓN DE LOS SERVICIOS DEL HOSPITAL ESPECIALIZADO - ESSALUD CAJAMARCA</p>
+    <p><strong>Especialidad:</strong> Tecnologías de la Información y Comunicaciones (TIC)</p>
+</div>
+
+<h2>I. ARQUITECTURA DETALLADA DE RED (VLANs Y RUTEO)</h2>
+<p>Basado en el requerimiento de alta disponibilidad y el uso de cableado 7A con enlaces de fibra óptica, se define la siguiente estructura de red lógica:</p>
+
+<h3>1.1 Segmentación de Tráfico</h3>
+<table>
+    <thead>
+        <tr>
+            <th>VLAN ID</th>
+            <th>NOMBRE</th>
+            <th>MÁSCARA</th>
+            <th>RANGO DE DIRECCIONES</th>
+            <th>USO ESPECÍFICO</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>10</td>
+            <td>CCTV_MGMT</td>
+            <td>255.255.255.0</td>
+            <td>10.0.10.1 - 10.0.10.254</td>
+            <td>Servidores de gestión, administración y NVRs.</td>
+        </tr>
+        <tr>
+            <td>20</td>
+            <td>CCTV_VIDEO</td>
+            <td>255.255.254.0</td>
+            <td>10.0.20.1 - 10.0.21.254</td>
+            <td>Segmento de 302 cámaras IP. Mascara /23 para expansión.</td>
+        </tr>
+        <tr>
+            <td>30</td>
+            <td>CCTV_CTRL</td>
+            <td>255.255.255.0</td>
+            <td>10.0.30.1 - 10.0.30.254</td>
+            <td>Estaciones de trabajo, matriz virtual y videowall.</td>
+        </tr>
+    </tbody>
+</table>
+
+<h3>1.2 Direccionamiento Estático para Servidores</h3>
+<ul>
+    <li><b>10.0.10.1:</b> Core Switch (Gateway principal)</li>
+    <li><b>10.0.10.10:</b> Servidor Admin Principal (Nodo 1)</li>
+    <li><b>10.0.10.11:</b> Servidor Admin Redundante (Nodo 2)</li>
+    <li><b>10.0.10.12:</b> <b>IP VIRTUAL (Cluster VIP)</b> - Punto de enlace para clientes VMS.</li>
+    <li><b>10.0.10.31 al 10.0.10.36:</b> NVRs de Grabación (Unidades 1 a 6).</li>
+</ul>
+
+<h2>II. CÁLCULO DE ALMACENAMIENTO Y PERFORMANCE (CAPACIDAD VS DEMANDA)</h2>
+<p>Siguiendo la Memoria Descriptiva (pág. 74), el cálculo debe garantizar 30 días a máxima resolución.</p>
+
+<h3>2.1 Demanda Estimada por Cámara</h3>
+<table>
+    <thead>
+        <tr>
+            <th>Tipo de Cámara</th>
+            <th>Cantidad</th>
+            <th>Resolución</th>
+            <th>FPS (Activo/Inactivo)</th>
+            <th>Bitrate Promedio (H.265+)</th>
+            <th>Total Almacenamiento (30 días)</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Minidomo Interior</td>
+            <td>180</td>
+            <td>5 MP (2592x1944)</td>
+            <td>30 FPS / 3 FPS</td>
+            <td>~3.5 Mbps</td>
+            <td>~94.5 TB</td>
+        </tr>
+        <tr>
+            <td>Fija Exterior (Bullet)</td>
+            <td>116</td>
+            <td>3 MP (2048x1536)</td>
+            <td>30 FPS / 3 FPS</td>
+            <td>~2.5 Mbps</td>
+            <td>~41.8 TB</td>
+        </tr>
+        <tr>
+            <td>PTZ Exterior</td>
+            <td>6</td>
+            <td>2 MP (1080p)</td>
+            <td>30 FPS / 3 FPS</td>
+            <td>~4.0 Mbps</td>
+            <td>~1.6 TB</td>
+        </tr>
+        <tr>
+            <td colspan="5"><b>TOTAL NETO ESTIMADO</b></td>
+            <td><b>137.9 Terabytes (TB)</b></td>
+        </tr>
+    </tbody>
+</table>
+
+<h3>2.2 Configuración Crítica del NVR</h3>
+<p>El sistema debe cumplir con la configuración <b>HA (Failover)</b>:</p>
+<ul>
+    <li><b>RAID 6 Obligatorio:</b> Cada NVR (de los 6 totales) debe configurarse con 8 discos de 6TB. Al aplicar RAID 6, se obtienen 36TB útiles por NVR.</li>
+    <li><b>Capacidad Total Útil:</b> 6 Servidores NVR x 36TB = <b>216 TB Instalados.</b></li>
+    <li><b>Margen de Seguridad:</b> 36% (Permite absorber picos de actividad mayores al 70% estimado).</li>
+</ul>
+
+<h2>III. CONFIGURACIÓN DE REDUNDANCIA 1+1 (HIGH AVAILABILITY)</h2>
+<p>Se implementará una arquitectura Activo-Pasivo bajo el software Dahua DSS Pro o equivalente conforme a EETT.</p>
+
+<div class="section-box">
+    <h3>3.1 Sincronización de Base de Datos (Hot Standby)</h3>
+    <p>El Servidor 1 (Maestro) envía cada transacción de base de datos al Servidor 2 (Esclavo) a través de un enlace dedicado de latido (Heartbeat). Se sincronizan:</p>
+    <ul>
+        <li>Listado de cámaras y credenciales.</li>
+        <li>Logs de auditoría y alarmas.</li>
+        <li>Configuración de mapas y roles de usuario.</li>
+    </ul>
+
+    <h3>3.2 Conmutación de Error (Failover)</h3>
+    <p>Si el Servidor Maestro falla, el Servidor Esclavo detecta la ausencia de señal en < 5 segundos y levanta los servicios utilizando la IP Virtual (VIP). Los NVRs se reconectan automáticamente al nuevo servidor activo.</p>
+</div>
+
+<h2>IV. SISTEMA DE VIDEOWALL Y MATRIZ VIRTUAL</h2>
+<p>Se detallan las conexiones y la gestión para los 8 monitores industriales de 50".</p>
+
+<h3>4.1 Topología Daisy Chain (Cascada)</h3>
+<p>Para evitar llevar 8 cables HDMI desde el rack de video, se usará la conexión Display Port 1.2:</p>
+<ol>
+    <li>La Estación de Trabajo de Matriz Virtual envía 4 flujos principales.</li>
+    <li>Cada flujo alimenta 2 monitores conectados en serie (Out del primer monitor a In del segundo).</li>
+    <li>El software de Matriz Virtual identifica el arreglo 4x2 como una sola "Pared de Video".</li>
+</ol>
+
+<h3>4.2 Gestión de Vistas</h3>
+<ul>
+    <li><b>Vistas Multi-pantalla:</b> El operador puede dividir un solo monitor de 50" en 16 o 32 cuadrículas (Sub-streams).</li>
+    <li><b>IVS Pop-up:</b> Las alarmas de cruce de línea e intrusión se mostrarán automáticamente en el monitor central en tamaño completo ("Pop-up View").</li>
+</ul>
+
+<h2>V. PROCEDIMIENTO DE CONFIGURACIÓN PASO A PASO (OPCIÓN E)</h2>
+<ol>
+    <li><b>Paso 1:</b> Inicializar NVRs en RAID 6 y asignarles IPs en el rango 10.0.10.3X.</li>
+    <li><b>Paso 2:</b> Configurar el <b>Smart H.265+</b> en todos los perfiles de cámara para asegurar el cumplimiento del almacenamiento.</li>
+    <li><b>Paso 3:</b> Habilitar IVS (Analítica) con filtros de <b>Humanos y Vehículos</b> para cumplimiento de reducción de falsas alarmas (EETT pág. 120).</li>
+    <li><b>Paso 4:</b> Sincronizar los 3 Joysticks USB/IP para el control fluido de las 6 cámaras PTZ desde las estaciones de monitoreo.</li>
+</ol>
+
+<h2>VI. APÉNDICE: AUTOMATIZACIÓN DE RED PARA 302 CÁMARAS</h2>
+<div class="code-block">
+    # Ejecutar el script 'configurar_camaras_dahua.py' en un entorno Python 3.
+    # Asigna IPs estáticas automáticas para evitar colisiones en la red hospitalaria.
+</div>
+
+</body>
+</html>

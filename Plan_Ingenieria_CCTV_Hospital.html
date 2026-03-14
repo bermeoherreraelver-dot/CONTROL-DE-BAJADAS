@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<style>
+    body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.6; color: #333; max-width: 800px; margin: 40px auto; padding: 20px; }
+    h1 { color: #01579b; border-bottom: 2px solid #01579b; padding-bottom: 10px; }
+    h2 { color: #2e7d32; margin-top: 30px; border-left: 5px solid #2e7d32; padding-left: 10px; }
+    h3 { color: #e65100; }
+    table { width: 100%; border-collapse: collapse; margin: 20px 0; }
+    th, td { border: 1px solid #ddd; padding: 12px; text-align: left; }
+    th { background-color: #f5f5f5; }
+    .highlight { background-color: #e3f2fd; padding: 15px; border-radius: 5px; border: 1px solid #bbdefb; }
+    pre { background: #f4f4f4; padding: 15px; border-left: 5px solid #ccc; font-family: 'Courier New', Courier, monospace; overflow-x: auto; }
+</style>
+</head>
+<body>
+
+<h1>PROYECTO: SISTEMA DE VIDEO VIGILANCIA Y SEGURIDAD - HOSPITAL ESSALUD CAJAMARCA</h1>
+
+<p>Este documento resume la ingeniería técnica y el plan de configuración para el sistema de CCTV del Hospital Especializado de Cajamarca.</p>
+
+<h2>1. PLAN DE DIRECCIONAMIENTO IP (SEGMENTACIÓN POR VLANS)</h2>
+<p>Para garantizar la seguridad y el rendimiento, se propone la siguiente segmentación de red:</p>
+
+<table>
+    <tr>
+        <th>VLAN</th>
+        <th>PROPÓSITO</th>
+        <th>RANGO DE RED</th>
+        <th>MÁSCARA</th>
+        <th>GATEWAY</th>
+    </tr>
+    <tr>
+        <td><b>VLAN 10</b></td>
+        <td>Servidores y Gestión</td>
+        <td>10.0.10.0/24</td>
+        <td>255.255.255.0</td>
+        <td>10.0.10.1</td>
+    </tr>
+    <tr>
+        <td><b>VLAN 20</b></td>
+        <td>Cámaras IP (Video)</td>
+        <td>10.0.20.0/23</td>
+        <td>255.255.254.0</td>
+        <td>10.0.20.1</td>
+    </tr>
+    <tr>
+        <td><b>VLAN 30</b></td>
+        <td>Visualización y Control</td>
+        <td>10.0.30.0/24</td>
+        <td>255.255.255.0</td>
+        <td>10.0.30.1</td>
+    </tr>
+</table>
+
+<h3>Distribución de IPs Críticas:</h3>
+<ul>
+    <li><b>Servidores Admin (HA):</b> 10.0.10.10, 10.0.10.11</li>
+    <li><b>Servidores VMS (HA):</b> 10.0.10.20, 10.0.10.21</li>
+    <li><b>NVRs (1 al 6):</b> 10.0.10.31 - 10.0.10.36</li>
+    <li><b>Cámaras IP:</b> 10.0.20.10 en adelante.</li>
+</ul>
+
+<h2>2. CÁLCULO DE ALMACENAMIENTO (OPCIÓN B)</h2>
+<div class="highlight">
+    <ul>
+        <li><b>Días exigidos:</b> 30 días mínima (EETT pág 114).</li>
+        <li><b>Cálculo de Actividad:</b> 70% tiempo a 30 FPS / 30% tiempo a 3 FPS.</li>
+        <li><b>Demanda Total:</b> ~138.5 Terabytes Netos.</li>
+        <li><b>Capacidad Instalada:</b> 216 Terabytes Útiles (6 NVRs x 36TB c/u en RAID 6).</li>
+        <li><b>Status:</b> CUMPLE SOBRADAMENTE CON EL EXPEDIENTE.</li>
+    </ul>
+</div>
+
+<h2>3. ARQUITECTURA DE REDUNDANCIA Y VIDEOWALL</h2>
+<h3>Redundancia 1+1</h3>
+<p>Configuración de clúster Activo-Pasivo. Uso de Heartbeat y base de datos con Hot Standby para evitar pérdida de configuración ante fallos físicos.</p>
+
+<h3>Videowall de 8 Monitores</h3>
+<p>Arreglo 4x2 con tecnología Daisy Chain. La visualización se gestiona mediante Matriz Virtual desde el VMS, optimizando la decodificación por hardware (GPU).</p>
+
+<h2>4. MANUAL DE EJECUCIÓN (FASES COMUNICADAS)</h2>
+<ol>
+    <li><b>Fase 1 (Lab):</b> Configuración de RAID 6 y actualización de Firmwares.</li>
+    <li><b>Fase 2 (Infra):</b> Despliegue de Fibra Óptica y Switches PoE por cada cuarto de comunicaciones.</li>
+    <li><b>Fase 3 (Core):</b> Instalación de Servidores en Clúster (Redundancia 1+1).</li>
+    <li><b>Fase 4 (Campo):</b> Montaje y direccionamiento de cámaras mediante script de automatización.</li>
+    <li><b>Fase 5 (Control):</b> Calibración de Videowall y Reglas de Analítica IVS (SMD Plus).</li>
+</ol>
+
+<h2>5. SCRIPT DE AUTOMATIZACIÓN DAHUA (PYTHON)</h2>
+<pre>
+import requests
+from requests.auth import HTTPDigestAuth
+
+# Este script permite asignar IPs consecutivas de la VLAN 20 
+# a las cámaras nuevas (192.168.1.108) automáticamente.
+# ... (Contenido del script proporcionado en la conversación)
+</pre>
+
+</body>
+</html>

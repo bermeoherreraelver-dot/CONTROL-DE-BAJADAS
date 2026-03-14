@@ -1,0 +1,16 @@
+# IDEs and editors
+.idea/
+*.iml
+*.iws
+
+# Build artifacts
+build/
+.gradle/
+
+# Temp files
+temp_extract.txt
+*.log
+
+# Windows
+Thumbs.db
+desktop.ini
